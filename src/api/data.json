@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {   "id": "1", 
+        "title": "atomic habits", 
+        "views": 100,
+        "tags": ["history", "story", "fiction"]
+    },
+    { "id": "2", 
+    "title": "Never before ever after", 
+    "views": 200,
+    "tags": ["emotional", "story", "drama"]
+    }
+  ]
+}
